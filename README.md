@@ -97,7 +97,7 @@ plt.ylabel('no of people')
 plt.title('histogram')
 plt.show()
 ```
-![Untitled](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/7ad7c354-e919-4e68-bb54-92799323cae8)
+![325701999-5b088d34-b1ee-4b3e-a229-39360d583bf6](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/45c9d44d-536f-4d4b-a30a-a1556a5e4762)
 ```
 import matplotlib.pyplot as plt
 import numpy as np
@@ -113,7 +113,7 @@ ax.set_xlabel("data")
 ax.set_ylabel("values")
 ax.set_title("box plot")
 ```
-![Untitled](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/ddbb9c01-6405-463b-ba98-709dcde1184f)
+![325702521-4cdf0d14-c240-4e56-9ef1-ed0ac3eef7d2](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/c1307c5c-99e4-4e67-b0a0-2a59ef9eecc6)
 ```
 import matplotlib.pyplot as plt
 activities=['eat','sleep','work','play']
@@ -123,7 +123,7 @@ plt.pie(slices,labels = slices,colors=colors,startangle=90,shadow = True,explode
 plt.legend()
 plt.show()
 ```
-![Untitled](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/963fb2ef-791a-4a47-8aef-74d8c625762e)
+![325702693-ddb35914-91b3-478a-81cf-f76e9cc9c071](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/aff6791e-db9d-4bff-8f4a-6ee9444d5913)
 
 # Result:
   Thus, We have successfullu performed Data Visualization using matplot python library for the given datas.
