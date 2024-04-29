@@ -18,10 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-```
-NAME : YAMUNAASRI T S
-REG NO : 212222240117
-```
+
 ```
 import matplotlib.pyplot as plt
 x_val = [0,1,2,3,4,5]
@@ -30,7 +27,7 @@ plt.plot(x_val,y_val)
 plt.show()
 ```
 ![325700663-7ea276da-329c-4e1b-af27-3ccbc2e158e8](https://github.com/aparnabalasubrmanian/EXNO-5-DS/assets/123351172/c3b1567c-eda6-46f9-97c0-5edcbc751613)
-
+```
 import matplotlib.pyplot as plt
 x = [1,2,3]
 y = [2,4,1]
